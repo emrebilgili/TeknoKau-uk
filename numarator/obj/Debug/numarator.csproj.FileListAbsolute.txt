@@ -1,0 +1,15 @@
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\bin\Debug\numarator.exe.config
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\bin\Debug\numarator.exe
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\bin\Debug\numarator.pdb
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.csprojResolveAssemblyReference.cache
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.Properties.Resources.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.csproj.GenerateResource.cache
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.exe
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.pdb
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.frm_main.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.FirstFunctionality.main.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.SecondFunctionality.main.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.ThirdFunctionality.main.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.FourthFunctionality.main.resources
+C:\Users\huseyin\Desktop\Kauçuk\numarator\numarator\obj\Debug\numarator.FifthFunctionality.main.resources
